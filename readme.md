@@ -1,7 +1,6 @@
-<p align="center"><b>PROJECT KELOMPOK 7</b></p>
+<p align="center"><b>PROJECT 3 Sistem Pemesanan Bioskop</b></p>
 
 ## ABOUT-PROJECT
-<p align="center">Project ini merupakan project praktikum pemrograman internet kelompok 7</p>
-<p align="center">Program Studi Teknologi Informasi</p>
-<p align="center">Fakultas Teknik</p>
-<p align="center">Universitas Udayana</p>
+<p align="center">Project ini merupakan project 3 untuk implementasi Pemrogramman dalam project Program Studi RPLA Universitas Teknologi Digitak Indonesia  </p>
+<p align="center">Referensi dari Kelompok 7 Program Studi Teknologi Informasi Fakultas Teknik Universitas Udayana</p>
+
