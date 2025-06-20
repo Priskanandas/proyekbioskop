@@ -1,6 +1,25 @@
-<p align="center"><b>PROJECT 3 Sistem Pemesanan Bioskop</b></p>
+# Proyek Bioskop
 
-## ABOUT-PROJECT
-<p align="center">Project ini merupakan project 3 untuk implementasi Pemrogramman dalam project Program Studi RPLA Universitas Teknologi Digitak Indonesia  </p>
-<p align="center">Referensi dari Kelompok 7 Program Studi Teknologi Informasi Fakultas Teknik Universitas Udayana</p>
+Aplikasi manajemen bioskop berbasis web yang dikembangkan menggunakan Laravel. Sistem ini memungkinkan admin mengelola daftar film, jadwal tayang, dan melihat data pemesanan pengguna.
 
+## Fitur
+- CRUD Film dan Jadwal
+- Pemesanan tiket
+- Login user dan admin
+- Notifikasi berhasil booking
+
+## Teknologi
+- Laravel 
+- MySQL
+- Bootstrap 5
+- JavaScript
+
+## Instalasi Lokal
+```bash
+git clone https://github.com/Priskanandas/proyekbioskop.git
+cd proyekbioskop
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
